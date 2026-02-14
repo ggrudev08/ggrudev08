@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ggrudev08
-- 👀 I’m interested in volleyball, coding and gaming.
+- 👀 I’m interested in volleyball, coding, gaming and guitar playing.
 - 🌱 I’m currently learning C++/Python.
 - 💞️ I’m looking to collaborate on nothing currently.
 - 📫 How to reach me ...
